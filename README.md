@@ -1,9 +1,9 @@
 
-# ****************** Project Overview ******************** 
+### ****************** Project Overview ******************** 
 
    In this project i write a lot of testing for RSS and it is very important for front end web developer if you work with another team it describe what should project do.
 
-## ****************** HoW to install this project ************
+### ****************** How to install this project ************
 
    you should download all file in this project then fire index.html
 
